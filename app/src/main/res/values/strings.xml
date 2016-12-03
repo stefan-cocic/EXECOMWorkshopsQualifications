@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoListGroupTwo</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="save_task">Save task</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="name">Email</string>
+    <string name="logout">Logout</string>
+    <string name="finished">Finished</string>
+    <string name="update">Update</string>
+    <string name="task_is_finished">Task is finished.</string>
+</resources>
